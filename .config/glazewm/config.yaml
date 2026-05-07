@@ -287,7 +287,7 @@ keybindings:
     bindings: ["alt+b"]
 
   # Open VSCode
-  - commands: ["shell-exec C:\\Users\\ashis\\Desktop\\VSCode.lnk"]
+  - commands: ["shell-exec C:\\Users\\o9\\Desktop\\VSCode.lnk"]
     bindings: ["alt+c"]
 
   # Open Zed
@@ -295,19 +295,19 @@ keybindings:
     bindings: ["alt+z"]
 
   # Open Obisian
-  - commands: ["shell-exec C:\\Users\\ashis\\Desktop\\Obsidian.lnk"]
+  - commands: ["shell-exec C:\\Users\\o9\\Desktop\\Obsidian.lnk"]
     bindings: ["alt+o"]
 
   # Open Spotify
-  - commands: ["shell-exec C:\\Users\\ashis\\Desktop\\Spotify.lnk"]
+  - commands: ["shell-exec C:\\Users\\o9\\Desktop\\Spotify.lnk"]
     bindings: ["alt+m"]
 
   # Open Discord
-  - commands: ["shell-exec C:\\Users\\ashis\\Desktop\\Discord.lnk"]
+  - commands: ["shell-exec C:\\Users\\o9\\Desktop\\Discord.lnk"]
     bindings: ["alt+d"]
 
-  # Open WhatsApp
-  - commands: ["shell-exec C:\\Users\\ashis\\Desktop\\WhatsApp.lnk"]
+  # Open Cursor
+  - commands: ["shell-exec C:\\Users\\o9\\Desktop\\Cursor.lnk"]
     bindings: ["alt+w"]
 
   # Open Neovim
@@ -327,11 +327,11 @@ keybindings:
     bindings: ["alt+x"]
 
   # Open ChatGPT
-  - commands: ["shell-exec cmd /c start zen -new-window https://chat.openai.com"]
+  - commands: ["shell-exec cmd /c start zen -new-window https://chatgpt.com"]
     bindings: ["alt+a"]
 
   # Open GitHub
-  - commands: ["shell-exec cmd /c start zen -new-window https://github.com/ashish0kumar"]
+  - commands: ["shell-exec cmd /c start zen -new-window https://github.com/repos"]
     bindings: ["alt+g"]
 
   # Restart yasb
